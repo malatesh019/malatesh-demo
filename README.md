@@ -1,3 +1,4 @@
 # malatesh-demo
 this is my first repository
-Name-Malatesh Havalappanvar
+<br>
+Author-Malatesh Havalappanvar
